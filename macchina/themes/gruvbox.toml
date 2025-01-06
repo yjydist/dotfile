@@ -21,7 +21,7 @@ y = 2
 
 [custom_ascii]
 color = "Green"
-path = "~/dotfile/macchina/themes/asserts/pacman.txt"
+# path = "/home/yjydist/dotfile/macchina/themes/asserts/ascii-art.png"
 
 
 [key]
