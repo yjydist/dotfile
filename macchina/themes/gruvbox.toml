@@ -14,6 +14,7 @@ hide_delimiters = false
 
 [box]
 title = "Gruvbox"
+border = "rounded"
 visible = true
 x = 2
 y = 2
@@ -21,6 +22,7 @@ y = 2
 [custom_ascii]
 color = "Green"
 path = "~/dotfile/macchina/themes/asserts/pacman.txt"
+
 
 [key]
 host = "Host"
